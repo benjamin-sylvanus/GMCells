@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Getting Started](README.md)
 * [Download](download/README.md)
   * [Mac](download/mac.md)
   * [Linux](download/linux.md)
@@ -10,7 +10,10 @@
 ## Packages
 
 * [FixCell](packages/fixcell/README.md)
-  * [Docs](packages/fixcell/docs.md)
+  * [Docs](packages/fixcell/docs/README.md)
+    * [Guide](packages/fixcell/docs/guide.md)
+    * [Functions](packages/fixcell/docs/functions.md)
+  * [Algorithm Overview](packages/fixcell/algorithm-overview.md)
 * [Skel-Volume](packages/skel-volume/README.md)
   * [Voxel](packages/skel-volume/voxel.md)
   * [Mesh](packages/skel-volume/mesh.md)
