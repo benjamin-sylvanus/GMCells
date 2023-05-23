@@ -1,25 +1,49 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [Download](download/README.md)
-  * [Mac](download/mac.md)
-  * [Linux](download/linux.md)
-  * [Windows](download/windows.md)
-  * [Dependencies](download/dependencies.md)
 
 ## Packages
 
 * [FixCell](packages/fixcell/README.md)
+  * [Algorithm Overview](packages/fixcell/algorithm-overview.md)
   * [Docs](packages/fixcell/docs/README.md)
     * [Guide](packages/fixcell/docs/guide.md)
     * [Functions](packages/fixcell/docs/functions.md)
-  * [Algorithm Overview](packages/fixcell/algorithm-overview.md)
+  * [Dependencies](packages/fixcell/dependencies.md)
+  * [Download](packages/fixcell/download/README.md)
+    * [Mac](packages/fixcell/download/mac.md)
+    * [Linux](packages/fixcell/download/linux.md)
+    * [Windows](packages/fixcell/download/windows.md)
+    * [Dependencies](packages/fixcell/download/dependencies.md)
 * [Skel-Volume](packages/skel-volume/README.md)
   * [Voxel](packages/skel-volume/voxel.md)
   * [Mesh](packages/skel-volume/mesh.md)
   * [Docs](packages/skel-volume/docs.md)
+  * [Dependencies](packages/skel-volume/dependencies.md)
+  * [Download](packages/skel-volume/download/README.md)
+    * [Mac](packages/skel-volume/download/mac.md)
+    * [Linux](packages/skel-volume/download/linux.md)
+    * [Windows](packages/skel-volume/download/windows.md)
+    * [Dependencies](packages/skel-volume/download/dependencies.md)
 * [Simulate](packages/simulate/README.md)
   * [Docs](packages/simulate/docs.md)
+  * [System Requirements](packages/simulate/system-requirements.md)
+  * [Dependencies](packages/simulate/dependencies.md)
+  * [Download](packages/simulate/download/README.md)
+    * [Mac](packages/simulate/download/mac.md)
+    * [Linux](packages/simulate/download/linux.md)
+    * [Windows](packages/simulate/download/windows.md)
+    * [Dependencies](packages/simulate/download/dependencies.md)
+* [GUI](packages/gui/README.md)
+  * [Docs](packages/gui/docs/README.md)
+    * [Functions](packages/gui/docs/functions.md)
+    * [Guide](packages/gui/docs/guide.md)
+  * [Dependencies](packages/gui/dependencies.md)
+  * [Download](packages/gui/download/README.md)
+    * [Mac](packages/gui/download/mac.md)
+    * [Linux](packages/gui/download/linux.md)
+    * [Windows](packages/gui/download/windows.md)
+    * [Dependencies](packages/gui/download/dependencies.md)
 
 ## Data
 
@@ -34,7 +58,3 @@
     * [Colab Template](https://colab.research.google.com/drive/1y0fmUBRyx44oKbvJt-BDTw\_\_Q5o7yf2X?usp=sharing)
   * [NeuroMorpho](data/sources/neuromorpho/README.md)
     * [-](https://neuromorpho.org/)
-
-## Our Pipeline
-
-* [Follow Along](our-pipeline/follow-along.md)
