@@ -26,7 +26,7 @@
     * [Windows](packages/skel-volume/download/windows.md)
     * [Dependencies](packages/skel-volume/download/dependencies.md)
 * [Simulate](packages/simulate/README.md)
-  * [Docs](packages/simulate/docs/README.md)
+  * [Docs](packages/simulate/docs.md)
     * [CLI](packages/simulate/docs/cli.md)
   * [System Requirements](packages/simulate/system-requirements.md)
   * [Dependencies](packages/simulate/dependencies.md)
