@@ -15,22 +15,22 @@
 #### Step Size -ss&#x20;
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+\delta x = \sqrt{2D_0\delta t}
 $$
 
 #### Permeation Probability -pp
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+\frac {P}{P-1} = \frac {2\kappa \delta s}{D_0} \newline \
+\newline \ 
+ \small   
+\delta s : Step\ Size\ 
+ \newline \  \kappa : Membrane \ Permeability
 $$
 
 #### Intrinsic Diffusivity -d0
 
 Intrinsic Diffusivity for each region
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
 
 #### Init In -ii
 
@@ -40,31 +40,17 @@ Enumeration for starting conditions&#x20;
 2. Initialize particles freely inside bounding box.
 3. Initialize particles at center of cell.&#x20;
 
-
-
-#### Distance -d
-
-$$
-f(x) = x * e^{2 pi i \xi x}
-$$
-
 #### Time Step -ts
 
 $$
 f(x) = x * e^{2 pi i \xi x}
 $$
 
-#### Scale -sc
-
-Depreciated.
-
-#### Voxel Size
-
-\-vs
+#### Voxel Size -vs
 
 Set the voxel size for the simulation.
 
-This regenerate a lookup table.
+This is currently unavailable.
 
 #### NStep -ns
 
